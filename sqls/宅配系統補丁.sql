@@ -1,0 +1,1 @@
+﻿ALTER TABLE `dueypackages` ADD COLUMN `message` varchar(193) NULL DEFAULT NULL;

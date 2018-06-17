@@ -1,0 +1,1 @@
+﻿ALTER TABLE `buddies` modify COLUMN `groupname` varchar(17) not null default '尚未設定群組';
